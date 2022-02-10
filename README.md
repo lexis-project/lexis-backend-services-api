@@ -44,7 +44,7 @@ however doing it without providing it will make the building of the service taki
 
 The initial branch used when building from sources is "master", it can be changed with a few other parameters by editing the script.
 
-## Runing
+## Running
 
 Within the folder run at the root of the repo there's a docker-compose sample file and a config.toml sample file.
 Once configured with appropriate data to start the service just issue the following comand:
