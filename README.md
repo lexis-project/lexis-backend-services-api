@@ -1,6 +1,6 @@
 # lexis-backend-services-api
 
-This repository contains a middleware service in the LEXIS PORTAL, which is back-end to the front-end, and front-end to user-org-service, dataset-management-interface, etc.
+This repository contains a middleware service for the LEXIS PORTAL, which is back-end to the front-end, and front-end to user-org-service, dataset-management-interface, etc.
 
 ## Acknowledgement
 
