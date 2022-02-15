@@ -1,5 +1,7 @@
 # lexis-backend-services-api
 
+<a href="https://doi.org/10.5281/zenodo.6080529"><img src="https://zenodo.org/badge/DOI/10.5281/zenodo.6080529.svg" alt="DOI"></a>
+
 This repository contains a middleware service for the LEXIS PORTAL, which is back-end to the front-end, and front-end to user-org-service, dataset-management-interface, etc.
 
 ## Acknowledgement
